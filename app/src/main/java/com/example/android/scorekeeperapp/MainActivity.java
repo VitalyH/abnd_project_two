@@ -10,8 +10,8 @@ public class MainActivity extends AppCompatActivity {
     /**
      * Global variables declaration.
      */
-    int scoreTeamA = 0;
-    int scoreTeamB = 0;
+    int scoreTeamA;
+    int scoreTeamB;
 
     /**
      * State check and save in case of screen rotation.
